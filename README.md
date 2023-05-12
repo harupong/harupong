@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning programming
 - 💬 Ask me about coffee☕
+- Curretnly Learning: Python, Flutter
+- Have experience with: Ubuntu, Docker, AWS(EC2, S3)
 
 ### WIP Projects
 - [harupong/ytpodgen: command line tool to turn YouTube live streams into podcasts](https://github.com/harupong/ytpodgen)
