@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning programming
 - 💬 Ask me about coffee☕
-- Curretnly Learning: Python🐍 Flutter📱
+- Curretnly Learning: Python🐍 Swift📱
 - Have experience with: Linux🐧 Docker🐳 AWS☁️(EC2, S3)
 
 ### WIP Projects
